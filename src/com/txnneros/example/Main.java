@@ -1,4 +1,3 @@
-
 package com.txnneros.example;
 
 import cn.nukkit.plugin.PluginBase;
